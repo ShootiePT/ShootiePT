@@ -12,6 +12,20 @@
 
 A tech-savvy sports enthusiast turned coding aficionado, I've sprinted through sales and dove headfirst into the world of video game design. Now, armed with a keyboard and a dream, I'm on a mission to conquer the digital universe, one line of code at a time. Join me on this epic quest, where bugs are foes to be vanquished and algorithms are my trusty allies!
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,maven,ai,ps)](https://skillicons.dev)
+
+- **Tools & Technologies:** jUnit, Tomcat, REST API
+- **Methodologies:** Agile, SCRUM
+
+### What I want to learn
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,figma)](https://skillicons.dev)
+
+
 ### What I'm Working On
 
 🚀 **[Weather App](https://github.com/ShootiePT/weather-app)** - A project to test and learn more about Single Page Applications (SPAs).
@@ -64,18 +78,4 @@ A tech-savvy sports enthusiast turned coding aficionado, I've sprinted through s
     }
   ]
 ```
-
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,jquery)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,mysql,maven,ai,ps)](https://skillicons.dev)
-
-- **Tools & Technologies:** jUnit, Tomcat, REST API
-- **Methodologies:** Agile, SCRUM
-
-### What I want to learn
-
-[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,figma)](https://skillicons.dev)
-
 ---
