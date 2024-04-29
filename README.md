@@ -4,10 +4,10 @@
 
 ---
 
-📍 *Location:* Aveiro, Portugal  
-📧 *Email:* [jose.f.rocha92@gmail.com](mailto:jose.f.rocha92@gmail.com)  
-🔗 *LinkedIn:* [joseflrocha](https://www.linkedin.com/in/joseflrocha)  
-🎮 *Pinterest:* [Goodies4Gamers](https://pinterest.pt/Goodies4Gamers)
+📍 **Location:** Aveiro, Portugal  
+📧 **Email:** [jose.f.rocha92@gmail.com](mailto:jose.f.rocha92@gmail.com)  
+🔗 **LinkedIn:** [joseflrocha](https://www.linkedin.com/in/joseflrocha)  
+🎮 **Pinterest:** [Goodies4Gamers](https://pinterest.pt/Goodies4Gamers)
 
 ### About Me
 
@@ -17,75 +17,50 @@ A tech-savvy sports enthusiast turned coding aficionado, I've sprinted through s
 
 🚀 **[Samuravi](https://github.com/ShootiePT)** - An online emporium dedicated to bespoke vectorized designs, inspired by gaming, iconic TV series, and blockbuster movies.
 
-yaml
-{
-  "experience": [
-    {
-      "role": "Team Leader",
-      "company": "Worten Portugal",
-      "location": "V.N. Gaia",
-      "start": "Jul 2022",
-      "end": "Dec 2022",
-      "responsibilities": "Coordinated teams to effectively engage with customers, gaining their trust and providing a unique in-store experience. Conducted analyses of analytical data and business strategies to achieve better outcomes."
-    },
-    {
-      "role": "Content Editor",
-      "company": "Worten Portugal",
-      "location": "Aveiro",
-      "start": "Mar 2022",
-      "end": "Jun 2022",
-      "responsibilities": "Developed market analyses and benchmarks. Implemented current trends and devised strategies to anticipate future ones."
-    },
-    {
-      "role": "Specialized Store Salesperson",
-      "company": "Worten Portugal",
-      "location": "Aveiro",
-      "start": "Oct 2014",
-      "end": "Mar 2022",
-      "responsibilities": "Delivered a unique in-store experience to customers, ensuring their comfort and willingness to return. Managed teams and trained new members to become customer-focused sellers while maintaining the company's objectives in mind. Provided instruction on store stock control and implemented merchandising plans."
-    },
-    {
-      "role": "Trainer",
-      "company": "Worten Spain",
-      "location": "Madrid, S. S. Reyes",
-      "start": "Mar 2021",
-      "end": "Apr 2021",
-      "responsibilities": "Managed teams and trained new members in sales techniques and store operations."
-    }
-  ],
-  "education": [
-    {
-      "type": "Certificate",
-      "name": "Teaching Skills Certificate",
-      "institution": "Aveiro",
-      "start": "2016",
-      "end": "2016"
-    },
-    {
-      "type": "Bootcamp",
-      "name": "Full Stack Programming Bootcamp",
-      "institution": "Code for All_",
-      "location": "Porto",
-      "start": "Jan 2024",
-      "end": "Apr 2024"
-    },
-    {
-      "type": "Degree",
-      "name": "Digital Game Design",
-      "institution": "Polytechnic Institute of Bragança - ESACT",
-      "location": "Aveiro",
-      "start": "2010",
-      "end": "2014"
-    }
-  ]
-}
+### Experience
 
+- **Team Leader**  
+  *Worten Portugal, V.N. Gaia*  
+  *Jul 2022 - Dec 2022*  
+  - Coordinated teams to effectively engage with customers, gaining their trust and providing a unique in-store experience.
+  - Conducted analyses of analytical data and business strategies to achieve better outcomes.
+
+- **Content Editor**  
+  *Worten Portugal, Aveiro*  
+  *Mar 2022 - Jun 2022*  
+  - Developed market analyses and benchmarks.
+  - Implemented current trends and devised strategies to anticipate future ones.
+
+- **Specialized Store Salesperson**  
+  *Worten Portugal, Aveiro*  
+  *Oct 2014 - Mar 2022*  
+  - Delivered a unique in-store experience to customers, ensuring their comfort and willingness to return.
+  - Managed teams and trained new members to become customer-focused sellers while maintaining the company's objectives in mind.
+  - Provided instruction on store stock control and implemented merchandising plans.
+
+- **Trainer**  
+  *Worten Spain, Madrid, S. S. Reyes*  
+  *Mar 2021 - Apr 2021*  
+  - Managed teams and trained new members in sales techniques and store operations.
+
+### Education
+
+- **Teaching Skills Certificate**  
+  *Aveiro, 2016*
+
+- **Full Stack Programming Bootcamp**  
+  *Code for All_, Porto*  
+  *Jan 2024 - Apr 2024*
+
+- **Digital Game Design Degree**  
+  *Polytechnic Institute of Bragança - ESACT, Aveiro*  
+  *2010 - 2014*
 
 ### Skills
 
-- *Programming Languages:* Java, HTML, CSS, JavaScript
-- *Frameworks:* Spring MVC, Bootstrap, JQuery
-- *Tools & Technologies:* Git, SQL, jUnit, Maven, Tomcat, REST API
-- *Methodologies:* Agile, SCRUM
+- **Programming Languages:** Java, HTML, CSS, JavaScript
+- **Frameworks:** Spring MVC, Bootstrap, JQuery
+- **Tools & Technologies:** Git, SQL, jUnit, Maven, Tomcat, REST API
+- **Methodologies:** Agile, SCRUM
 
 ---
