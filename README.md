@@ -2,12 +2,11 @@
 
 ## Junior Fullstack Developer | Game Design Enthusiast | Tech Innovator
 
----
-
 📍 **Location:** Aveiro, Portugal  
-📧 **Email:** [jose.f.rocha92@gmail.com](mailto:jose.f.rocha92@gmail.com)  
-🔗 **LinkedIn:** [joseflrocha](https://www.linkedin.com/in/joseflrocha)  
-🎮 **Pinterest:** [Goodies4Gamers](https://pinterest.pt/Goodies4Gamers)
+🎮 **Pinterest:** [Samuravi](https://pinterest.pt/Goodies4Gamers)
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:jose.f.rocha92@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joseflrocha)
 
 ### About Me
 
@@ -15,52 +14,68 @@ A tech-savvy sports enthusiast turned coding aficionado, I've sprinted through s
 
 ### What I'm Working On
 
-🚀 **[Samuravi](https://github.com/ShootiePT)** - An online emporium dedicated to bespoke vectorized designs, inspired by gaming, iconic TV series, and blockbuster movies.
+🚀 **[Weather App](https://github.com/ShootiePT/weather-app)** - A project to test and learn more about Single Page Applications (SPAs).
 
 ### Experience
 
-- **Team Leader**  
-  *Worten Portugal, V.N. Gaia*  
-  *Jul 2022 - Dec 2022*  
-  - Coordinated teams to effectively engage with customers, gaining their trust and providing a unique in-store experience.
-  - Conducted analyses of analytical data and business strategies to achieve better outcomes.
-
-- **Content Editor**  
-  *Worten Portugal, Aveiro*  
-  *Mar 2022 - Jun 2022*  
-  - Developed market analyses and benchmarks.
-  - Implemented current trends and devised strategies to anticipate future ones.
-
-- **Specialized Store Salesperson**  
-  *Worten Portugal, Aveiro*  
-  *Oct 2014 - Mar 2022*  
-  - Delivered a unique in-store experience to customers, ensuring their comfort and willingness to return.
-  - Managed teams and trained new members to become customer-focused sellers while maintaining the company's objectives in mind.
-  - Provided instruction on store stock control and implemented merchandising plans.
-
-- **Trainer**  
-  *Worten Spain, Madrid, S. S. Reyes*  
-  *Mar 2021 - Apr 2021*  
-  - Managed teams and trained new members in sales techniques and store operations.
+```yaml
+  "experience": [
+    {
+      "role": "Team Leader",
+      "company": "Worten Portugal",
+      "location": "V.N. Gaia"
+    },
+    {
+      "role": "Content Editor",
+      "company": "Worten Portugal",
+      "location": "Portugal"
+    },
+    {
+      "role": "Specialized Store Salesperson",
+      "company": "Worten Portugal",
+      "location": "Aveiro",
+    },
+    {
+      "role": "Trainer",
+      "company": "Worten Spain",
+      "location": "Madrid, S. S. Reyes",
+    }
+  ]
+```
 
 ### Education
 
-- **Teaching Skills Certificate**  
-  *Aveiro, 2016*
-
-- **Full Stack Programming Bootcamp**  
-  *Code for All_, Porto*  
-  *Jan 2024 - Apr 2024*
-
-- **Digital Game Design Degree**  
-  *Polytechnic Institute of Bragança - ESACT, Aveiro*  
-  *2010 - 2014*
+```yaml
+  "education": [
+    {
+      "type": "Certificate",
+      "name": "Teaching Skills Certificate",
+      "institution": "Conclusão"
+    },
+    {
+      "type": "Bootcamp",
+      "name": "Full Stack Programming Bootcamp",
+      "institution": "Code for All_"
+    },
+    {
+      "type": "Degree",
+      "name": "Digital Game Design",
+      "institution": "Polytechnic Institute of Bragança - ESACT"
+    }
+  ]
+```
 
 ### Skills
 
-- **Programming Languages:** Java, HTML, CSS, JavaScript
-- **Frameworks:** Spring MVC, Bootstrap, JQuery
-- **Tools & Technologies:** Git, SQL, jUnit, Maven, Tomcat, REST API
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,maven,ai,ps)](https://skillicons.dev)
+
+- **Tools & Technologies:** jUnit, Tomcat, REST API
 - **Methodologies:** Agile, SCRUM
+
+### What I want to learn
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,figma)](https://skillicons.dev)
 
 ---
