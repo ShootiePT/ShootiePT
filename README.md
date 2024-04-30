@@ -1,11 +1,36 @@
 ### Junior Fullstack Developer | Game Design Enthusiast | Tech Innovator
 
-📍 **Location:** Aveiro, Portugal  
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
+
+```js
+import { Person } from 'Portugal';
+
+new Person({
+    name   : 'José Rocha',
+    title  : 'Junior FullStack Developer',
+    email  : 'jose.f.rocha92@gmail.com',
+    hobbies  : ['MTG', 'Video/board Games', 'team sports'],
+    location: 'Aveiro',
+}).introduce();
+```
+
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
+
 🎮 **Pinterest:** [Samuravi](https://pinterest.pt/Goodies4Gamers)
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:jose.f.rocha92@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joseflrocha)
+<div align="center">
+  <a href="mailto:jose.f.rocha92@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail alt="Java"></a>
+  <a href="https://www.linkedin.com/in/joseflrocha target="_blank"><img src="https://skillicons.dev/icons?i=linkedin alt="Java"></a>
+</div>
 
+<!--x axis divider-->
 ##
 
 <div id="user-content-toc">
@@ -54,6 +79,7 @@
   **Methodologies:** Agile, SCRUM
 </div>
 
+<!--x axis divider-->
 ##
 
 <div id="user-content-toc">
@@ -69,6 +95,7 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></a>
 </div>
 
+<!--x axis divider-->
 ##
 
 <div id="user-content-toc">
@@ -78,9 +105,10 @@
 </div>
 
 <div align="center">
-  <a src="https://github.com/ShootiePT/weather-app" target="_blank"> 🌐 A project to test and learn more about Single Page Applications (SPAs) 🌐
+  <p>🌐 <a href="https://github.com/ShootiePT/weather-app" target="_blank">Weather App</a> - A project to test and learn more about Single Page Applications (SPAs) 🌐</p>
 </div>
     
+<!--x axis divider-->
 ##
 
 <div id="user-content-toc">
@@ -103,11 +131,4 @@
   </a>
 </div>
 
-
 ---
-
-
-
-
-
-
