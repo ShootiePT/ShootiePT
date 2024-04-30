@@ -2,7 +2,7 @@
 
 <picture> 
 <a href="#" alt="Developer">
-<img src="/resourses/prgm.jpg" align="right" width="365">
+<img src="/resourses/prgm.jpg" align="right" width="350">
 </a>
 </picture>
 
@@ -123,10 +123,10 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shootiept&theme=radical" />
+    <img width="375px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shootiept&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shootiept&layout=compact&langs_count=8&theme=radical" />
+    <img width="350px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shootiept&layout=compact&langs_count=8&theme=radical" />
   </a>
 </div>
 
