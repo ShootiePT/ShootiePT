@@ -2,7 +2,7 @@
 
 <picture> 
 <a href="#" alt="Developer">
-<img src="/resourses/prgm.png" align="right" width="350">
+<img src="/resourses/prgm.jpg" align="right" width="365">
 </a>
 </picture>
 
