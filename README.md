@@ -1,8 +1,10 @@
 ### Junior Fullstack Developer | Game Design Enthusiast | Tech Innovator
 
+<img src="/resourses/banner.jpg" width="100%">
+
 <picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
+<a href="/resourses/pintrest.png" alt="Developer">
+<img src="/resourses/pintrest.png" align="right" width="350">
 </a>
 </picture>
 
@@ -19,15 +21,16 @@ new Person({
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\Jose-Rocha> node index.js
+Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 ```
 
 🎮 **Pinterest:** [Samuravi](https://pinterest.pt/Goodies4Gamers)
 
 <div align="center">
-  <a href="mailto:jose.f.rocha92@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail alt="Java"></a>
-  <a href="https://www.linkedin.com/in/joseflrocha target="_blank"><img src="https://skillicons.dev/icons?i=linkedin alt="Java"></a>
+  <a href="mailto:jose.f.rocha92@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"></a>
+  <a href="https://www.linkedin.com/in/joseflrocha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedIn"></a>
+  <a href="https://pinterest.pt/Goodies4Gamers" target="_blank"><img src="/resourses/pintrest.png" alt="pintrest"></a>
 </div>
 
 <!--x axis divider-->
