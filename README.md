@@ -34,13 +34,13 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">💻Skills</h3></summary>
+    <h3>💻Skills</h3>
   </ul>
 </div>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h4 style="display: inline-block">Programming Languages</h4></summary>
+    <h4>Programming Languages</h4>
   </ul>
 </div>
 
@@ -53,7 +53,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h4 style="display: inline-block">Frameworks</h4></summary>
+    <h4>Frameworks</h4>
   </ul>
 </div>
 
@@ -64,7 +64,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 </div>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h4 style="display: inline-block">Tools & Technologies</h4></summary>
+    <h4>Tools & Technologies</h4>
   </ul>
 </div>
 
@@ -83,7 +83,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🎓What I want to learn</h3></summary>
+    <h3 style="display: inline-block">🎓What I want to learn</h3>
   </ul>
 </div>
 
@@ -99,7 +99,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">✏️What I'm Working On</h3></summary>
+    <h3>✏️What I'm Working On</h3>
   </ul>
 </div>
 
@@ -112,7 +112,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">&nbsp;🏆 GitHub Statistics</h3></summary>
+    <h3>&nbsp;🏆 GitHub Statistics</h3>
   </ul>
 </div>
 
