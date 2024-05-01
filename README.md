@@ -1,10 +1,10 @@
 <!-- BANNER -->
-<img src="/resourses/banner.jpg" width="100%">
+<img src="/resourses/banner.jpg" width="100%" alt="banner">
 
 <!-- PROGRAMMER IMG -->
 <picture> 
 <a href="#" alt="Developer">
-<img src="/resourses/prgm.jpg" align="right" width="350">
+<img src="/resourses/prgm.jpg" align="right" width="350" alt="programmer">
 </a>
 </picture>
 
@@ -130,8 +130,9 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 </p>
 
 <div align="center">
-    <img width="375px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shootiept&theme=radical" />
-    <img width="350px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shootiept&layout=compact&langs_count=8&theme=radical" />
+    <img width="375px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shootiept&theme=radical" alt="profile status"/>
+    <img width="350px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shootiept&show_icons=true&locale=en&layout=compact&theme=radical" alt="most languages used"/>
+    
 </div>
 
 ---
