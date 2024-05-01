@@ -1,11 +1,14 @@
+<!-- BANNER -->
 <img src="/resourses/banner.jpg" width="100%">
 
+<!-- PROGRAMMER IMG -->
 <picture> 
 <a href="#" alt="Developer">
 <img src="/resourses/prgm.jpg" align="right" width="350">
 </a>
 </picture>
 
+<!-- ABOUT ME -->
 ```js
 import { Person } from 'Portugal';
 
@@ -23,6 +26,7 @@ D:\Jose-Rocha> node index.js
 Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 ```
 
+<!-- CONTACTS -->
 <div align="center">
   <a href="mailto:jose.f.rocha92@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"></a>
   <a href="https://www.linkedin.com/in/joseflrocha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedIn"></a>
@@ -38,6 +42,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
   </ul>
 </div>
 
+<!-- PROGRAMING ICONS -->
 <div id="user-content-toc">
   <ul align="center">
     <h4>Programming Languages</h4>
@@ -48,7 +53,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
   <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"></a>
   <a href="https://html.com/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
+  <a href="https://github.com/ShootiePT" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
 </div>
 
 <div id="user-content-toc">
@@ -81,6 +86,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 <!--x axis divider-->
 ##
 
+<!-- LEARNING ICONS -->
 <div id="user-content-toc">
   <ul align="center">
     <h3 style="display: inline-block">🎓What I want to learn</h3>
@@ -97,6 +103,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 <!--x axis divider-->
 ##
 
+<!-- PROJECTs AREA -->
 <div id="user-content-toc">
   <ul align="center">
     <h3>✏️What I'm Working On</h3>
@@ -110,6 +117,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 <!--x axis divider-->
 ##
 
+<!-- CARD ZONE -->
 <div id="user-content-toc">
   <ul align="center">
     <h3>&nbsp;🏆 GitHub Statistics</h3>
