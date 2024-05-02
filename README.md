@@ -97,6 +97,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></a>
 </div>
 
