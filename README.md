@@ -3,7 +3,7 @@
 <!-- PROGRAMMER IMG -->
 <picture> 
 <a href="#" alt="Developer">
-<img src="/resources/prgm.png" align="right" width="350">
+<img src="/resources/prgm.jpg" align="right" width="350">
 </a>
 </picture>
 
