@@ -66,6 +66,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"></a>
+    <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate"></a>
 </div>
 <div id="user-content-toc">
   <ul align="center">
