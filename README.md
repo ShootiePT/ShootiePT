@@ -1,9 +1,9 @@
-<img src="/resourses/banner.jpg" width="100%">
+<img src="/resources/banner.jpg" width="100%">
 
 <!-- PROGRAMMER IMG -->
 <picture> 
 <a href="#" alt="Developer">
-<img src="/resourses/prgm.png" align="right" width="350">
+<img src="/resources/prgm.png" align="right" width="350">
 </a>
 </picture>
 
