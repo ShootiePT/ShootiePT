@@ -1,8 +1,8 @@
-<img src="/resourses/banner.jpg" width="100%">
+<img src="/resources/banner.jpg" width="100%">
 
 <picture> 
 <a href="#" alt="Developer">
-<img src="/resourses/prgm.png" align="right" width="350">
+<img src="/resources/prgm.png" align="right" width="350">
 </a>
 </picture>
 
@@ -26,7 +26,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 <div align="center">
   <a href="mailto:jose.f.rocha92@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"></a>
   <a href="https://www.linkedin.com/in/joseflrocha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedIn"></a>
-  <a href="https://pinterest.pt/Goodies4Gamers" target="_blank"><img src="/resourses/pintrest.png" alt="pintrest" width="48"></a>
+  <a href="https://pinterest.pt/Goodies4Gamers" target="_blank"><img src="/resources/pintrest.png" alt="pintrest" width="48"></a>
 </div>
 
 <!--x axis divider-->
