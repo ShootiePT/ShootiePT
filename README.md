@@ -79,6 +79,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
   <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven" alt="Maven"></a>
   <a href="https://www.adobe.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator"></a>
   <a href="https://www.adobe.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop"></a>
+  <a href="https://www.adobe.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman"></a>
   
   **Methodologies:** Agile, SCRUM
 </div>
