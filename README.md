@@ -115,6 +115,10 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 <div align="center">
   <p>🌐 <a href="https://github.com/ShootiePT/weather-app" target="_blank">Weather App</a> - A project to test and learn more about Single Page Applications (SPAs) 🌐</p>
 </div>
+
+<div align="center">
+  <p>📃 <a href="https://github.com/ShootiePT/CV-Digital" target="_blank">Digital CV</a> - I'm developing a small website where I'll showcase my resume, ongoing project, and completed projects. Each page of the website will be created using a different technology. 📃</p>
+</div>
     
 <!--x axis divider-->
 ##
