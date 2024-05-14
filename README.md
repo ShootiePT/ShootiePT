@@ -110,9 +110,10 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 </div>
 
 <div align="center">
-  <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"></a>
+    <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="Type Script"></a>
 </div>
 
 <!--x axis divider-->
