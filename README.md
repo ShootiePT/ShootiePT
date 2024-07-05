@@ -145,13 +145,16 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 </div>
 
 <!-- Git status cards -->
+<!--
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shootiept&hide_border=true&theme=radical" width="400px">
 </p>
+-->
 
 <div align="center">
-    <img width="375px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shootiept&theme=radical" alt="profile status"/>
-    <img width="350px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shootiept&show_icons=true&locale=en&layout=compact&theme=radical" alt="most languages used"/>
+    <!--- <img src="https://github-readme-stats.vercel.app/api?username=shootiept&theme=radical" width="375px" align="center" alt="profile status"/> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shootiept&hide_border=true&theme=radical" width="410px" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shootiept&show_icons=true&locale=en&layout=compact&theme=radical" width="350px" align="center" alt="most languages used"/>
     
 </div>
 
