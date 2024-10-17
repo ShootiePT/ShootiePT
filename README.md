@@ -153,7 +153,7 @@ Hi, my name is José Rocha, I'm a Junior FullStack Developer from Portugal.
 
 <div align="center">
     <!--- <img src="https://github-readme-stats.vercel.app/api?username=shootiept&theme=radical" width="375px" align="center" alt="profile status"/> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shootiept&hide_border=true&theme=radical" width="410px" align="center">
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shootiept&hide_border=true&theme=radical" width="410px" align="center"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shootiept&show_icons=true&locale=en&layout=compact&theme=radical" width="350px" align="center" alt="most languages used"/>
     
 </div>
